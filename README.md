@@ -1,4 +1,4 @@
-# ARAC GUVENLİK KONTROL SISTEMI(START-UP CHECK)
+# ARAÇ GÜVENLİK KONTROL SİSTEMİ(START-UP CHECK)
 
 ## Proje Hakkında
 
@@ -50,6 +50,7 @@ Batarya Sicakligini Girin : 25.0
 Sarj Yuzdesini Girin (0-100) : 150
 Hatali Sensor Verisi: Sarj %0'dan kucuk veya %100'den buyuk olamaz!
 ```
+
 
 
 
