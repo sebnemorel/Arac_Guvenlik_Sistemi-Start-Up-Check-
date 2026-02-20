@@ -43,13 +43,14 @@ Fren Pedali Durumunu Girin (1: Basili , 0 : Degil) : 1
 KRITIK HATA : Motor Asiri Isindi! Surus Engellendi.
 ```
 
-### Senaryo 3: Hatalı Sensör Verisi(Geçersiz Sarj)
+### Senaryo 3: Hatalı Sensör Verisi(Geçersiz Şarj)
 ```
 --- ELEKTROMOBIL GUVENLIK KONTROLU---
 Batarya Sicakligini Girin : 25.0
 Sarj Yuzdesini Girin (0-100) : 150
 Hatali Sensor Verisi: Sarj %0'dan kucuk veya %100'den buyuk olamaz!
 ```
+
 
 
 
