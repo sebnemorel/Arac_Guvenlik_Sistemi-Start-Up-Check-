@@ -2,7 +2,7 @@
 
 ## Proje Hakkında
 
-Bu proje elektromobil aracının yarış öncesi güvenlik protokollerini denetler. Motor çalıştırılmadan önce batarya yüzdesini , sarj yüzdesini, kapı durumunu ve fren durumunu kontrol eder.Hata olup olmama durumuna göre sürüşü onaylar veya engeller. C programı ile yazılmıştır.
+Bu proje elektromobil aracının yarış öncesi güvenlik protokollerini denetler. Motor çalıştırılmadan önce batarya yüzdesini, sarj yüzdesini, kapı durumunu ve fren durumunu kontrol eder.Hata olup olmama durumuna göre sürüşü onaylar veya engeller. C programı ile yazılmıştır.
 
 
 ## Kurulum ve Çalıştırma
@@ -50,6 +50,7 @@ Batarya Sicakligini Girin : 25.0
 Sarj Yuzdesini Girin (0-100) : 150
 Hatali Sensor Verisi: Sarj %0'dan kucuk veya %100'den buyuk olamaz!
 ```
+
 
 
 
